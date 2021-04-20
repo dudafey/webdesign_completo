@@ -1,1 +1,47 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Contrução Web</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Duda Fey">
+    <meta name="description" content="#">
+    <meta name="keywords" content="WebDesign, Contrução, Web">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <a href="index.html"><img src="img/logo_webdesign.png" alt="Logo do Web Design" class="marca"></a>
+            <nav>
+                <ul>
+                    <li><a href="Canetas.html">Canetas</a></li>
+                    <li><a href="Planners.html">Planners</a></li>
+                    <li><a href="Boards.html">Boards</a></li>
+                </ul>
+        </nav>
+        </header>
+        <div class="planner">
+            <div class="caixa">
+                <h1>Planners</h1>
+                <p class="destaque">Conheça um pouco mais sobre os tipos de planners.</p>
+
+        </div>
+    </div>
+
+    <section>
+        <div class="conteudo">
+
+            <h2>Mussum ipsum cacilds</h2>
+                <p>Suco de cevadiss, é um leite divinis, qui tem lupuliz matis. aguis e fermentis. Interagi no mé. cursus quis, vehicula acnisi. Aenean vel dui dui. Suco de cevadiss, é um leite divinis, qui tem lupuliz matis. aguis e fermentis. Interagi no mé. cursus quis, vehicula acnisi. Aenean vel dui d </p>
+            </div>
+
+
+    </section>
+
+<footer><p class="footer">2021. Site template WebDesign UP</p></footer>
+
+</div>
+</body>
+
+</html>
